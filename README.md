@@ -1,5 +1,7 @@
 # Docker Installation Guide for Ubuntu (EC2 or Local Machine)
 
+![logo](https://github.com/user-attachments/assets/715fca36-e88a-4387-8690-1a74808e702f)
+
 This guide explains how to install Docker on an Ubuntu machine, whether it's an **AWS EC2 instance** or a **local Ubuntu machine**. Follow the steps below to set up Docker and start using containers.
 
 ## Prerequisites
